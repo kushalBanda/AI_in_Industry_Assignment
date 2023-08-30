@@ -1,3 +1,5 @@
+# Assignment 2: Modify the YOLO model trained on the COCO dataset to detect people.
+
 ## Installing and Importing Dependencies
 * Installing libraries such as Pytorch, matplotlib, etc.
 
