@@ -1,3 +1,5 @@
+# Assignment 1: Write a program in python send a message from client system to server system and vice versa.
+ 
  Simple client-server communication program using sockets in Python. 
  This program allows the client to send a message to the server, and the server will respond back with an acknowledgment message.
 
