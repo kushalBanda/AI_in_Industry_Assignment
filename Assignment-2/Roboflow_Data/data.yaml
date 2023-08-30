@@ -1,0 +1,6 @@
+train: /Users/kushalbanda/4-1/Artificial_Intelligence_in_Industry/Assignments/Assignment-2/yolov5/Detect-People-1/train/images
+test: /Users/kushalbanda/4-1/Artificial_Intelligence_in_Industry/Assignments/Assignment-2/yolov5/Detect-People-1/test/images
+val: /Users/kushalbanda/4-1/Artificial_Intelligence_in_Industry/Assignments/Assignment-2/yolov5/Detect-People-1/test/images
+
+nc: 1
+names: ['Person']
