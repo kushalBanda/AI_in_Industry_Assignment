@@ -12,4 +12,4 @@
 * !python train.py --img 640 --epochs 100 --data /Users/kushalbanda/4-1/Artificial_Intelligence_in_Industry/Assignments/Assignment-2/yolov5/Detect-People-1/data.yaml --weights yolov5s.pt --cache
 
 ## YOLO Model Detect:
-* !python detect.py --weights yolov5s.pt --img 320 --conf 0.25 --source /Users/kushalbanda/4-1/Artificial_Intelligence_in_Industry/Assignments/Assignment-2/Detect-People-1/test/images
+* !python detect.py --weights yolov5s.pt --img 320 --conf 0.25 --source /Users/kushalbanda/4-1/Artificial_Intelligence_in_Industry/Assignments/Assignment-2/Detect-People-1/test/images --classes 0
